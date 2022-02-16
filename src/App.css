@@ -37,18 +37,26 @@
   }
 }
 
-.mt-50{
+.mt-50 {
   margin-top: 50px;
 }
-span{
+span {
   padding: 10px 20px;
-  margin:10px;
-  cursor:pointer;
+  margin: 10px;
+  cursor: pointer;
 }
-.active{
+.active {
   border: solid 3px black;
 }
-#content{
-  padding:10px;
-  border:solid 3px red;
+#content {
+  padding: 10px;
+  border: solid 3px red;
+}
+h1 {
+  text-align: center;
+}
+.container {
+  background-color: #e8ebca;
+  padding: 20px;
+  height: 500px;
 }

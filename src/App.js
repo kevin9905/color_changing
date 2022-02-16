@@ -40,6 +40,7 @@ class App extends Component {
   render() {
     return (
       <div className="container mt-50">
+        <h1>Welcome to my Color Picker App</h1>
         <div className="row">
           <ColorPicker
             color={this.state.color}
